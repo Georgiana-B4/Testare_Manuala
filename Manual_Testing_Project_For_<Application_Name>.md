@@ -1,20 +1,22 @@
-<h1>Testing Project for **Inserati aici numele aplicatiei pe care o testati**</h1>
+<h1>Testing Project for **Wizz Air**</h1>
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: **Inserati aici numele aplicatiei pe care o testati**
+Application under test: **Wizz Air**
 
 Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below stories was created in Jira and describes the functional specifications of the "**Wizz Air**" module, for which the final project is performed upon.
 
-**inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
+![image](https://github.com/user-attachments/assets/154b4e04-8f9c-4ab5-81e0-256ecbb9326f)
+
 
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![image](https://github.com/user-attachments/assets/ff7bd366-888f-48fc-8662-cf1d2b028894)
+
 
 <h2>Testing process</h2>
 
@@ -24,25 +26,50 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **https://botofangeorgiana.atlassian.net/projects/WIZZ?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.thed.zephyr.je__main-project-page#!/v2/testCases?projectId=10002**
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
+
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Botofan Georgiana</li> 
+  <li>Ionescu Ana</li>
+  <li>Pop Valeria</li>
+  <li>Iles Vlad</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+**Full documentation:
+Functional and technical specifications of the application.
+Business and user requirements.
+Prepared test environment:
+Setting up the test environment (servers, databases, networks).
+Access to all necessary resources (user accounts, test data).
+Tools and access:
+Access to Jira and other required testing tools.
+Setting up relevant plugins and integrations.**
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+**Completion of tests:
+All planned tests have been executed.
+All test scenarios have been covered.
+Troubleshooting:
+All critical and major bugs have been fixed.
+Minor defects have been documented and accepted by stakeholders.
+Full reporting:
+All test reports have been generated and reviewed.
+Defect and test reports have been approved.
+Acceptance criteria:
+All initially defined acceptance criteria were met.
+Feedback from users and stakeholders has been integrated.
+Updated documentation:
+The test documentation has been updated to reflect the final results.
+All relevant documents have been properly archived.
+Final Approvals:
+Final approval was obtained from all interested parties.
+The project has been formally closed in Jira.**
 
 <h4> 1.1.4 Test scope</h4>
 
@@ -58,11 +85,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+**lack of team experience,exceeding the buget,insuffincient resourses,lack of technical skills**
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+**security risk of personal data,security risc of reservation proccess,risk of validation data**
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
